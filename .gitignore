@@ -73,3 +73,4 @@ jasmine_ci_*
 dump.rdb
 junit_results.xml
 db/dump
+/spring/*.pid
